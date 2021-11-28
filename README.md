@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hanamaru5
 - 👀 I’m interested in fishing.
-- 🌱 I’m currently learning programing.
+- 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on making Seafloor topographic map.
 - 📫 How to reach me ...
 
